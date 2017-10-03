@@ -10,3 +10,5 @@ TO-DO {
 3 (Hacer código del parser y vincularlo con la salida de texto de la label).
 
 }
+
+Al final he optado por usar python 3.5 (por eso he usado pip3).
