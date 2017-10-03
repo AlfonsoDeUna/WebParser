@@ -1,6 +1,8 @@
 # WebParser
 Herramienta de Information Gathering (WIP).
 
+pip3 install -r requeriments.txt
+
 TO-DO {
 
 1 (Tengo que hacer la label de entrada de texto).
