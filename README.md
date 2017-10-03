@@ -1,7 +1,7 @@
 # WebParser
 Herramienta de Information Gathering (WIP).
 
-pip3 install -r requeriments.txt
+pip3 install -r requisitos.txt
 
 TO-DO {
 
