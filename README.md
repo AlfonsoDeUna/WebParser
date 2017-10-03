@@ -1,7 +1,7 @@
 # WebParser
 Herramienta de Information Gathering (WIP).
 
-pip3 install -r requisitos.txt
+pip3 install -r pyqt5.txt
 
 TO-DO {
 
